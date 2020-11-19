@@ -1,0 +1,1 @@
+SELECT string_field_0 as product_category_name, string_field_1 as product_category_name_english FROM `ra-development.rob_training.product_name_translation_dim` where string_field_0 <> 'product_category_name'
